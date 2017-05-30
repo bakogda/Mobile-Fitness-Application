@@ -1,4 +1,4 @@
-package activity;
+package pages;
 
 /**
  * Created by Bako on 30/05/2017.
