@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d7f3fd9a46e4344fe222e76d0659b13b0f02719">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77bcf634a1083f407f253837b9fe309bac8f0a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_9b3d2eee3261e198d48867384940d1079bce8586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_076f81dae1ac2406f56a273f166a48c189e98df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mcxiaoke.volley-library-aar-1.0.0_7d08960bf590bb0159c6138616e3b99006ae8366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_66d71a729d1690f7a789870829d43425b4f958c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_2edbd4a9992e7bc3f3e326650545041bfa277fa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_8ad874db5bacfe4bc9236a25212a877146e1cc95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_d66dfe50ddc19782173d38c01dca092671a60a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="950d2c17ccf19042c43d1e55f7c549a26fa45f27">
+        <dex dex="/Users/Bako/AndroidStudioProjects/Fitness/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_066135c06cde68177a8a3fa4acc6de9d649432a4/classes.dex" />
+    </item>
+
+</items>
